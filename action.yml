@@ -1,6 +1,6 @@
 name: 'SSH Remote Commands'
 description: 'Executing remote ssh commands'
-author: 'Bo-Yi Wu'
+author: 'TahaluIndo'
 inputs:
   host:
     description: 'ssh host'
